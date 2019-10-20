@@ -1,2 +1,4 @@
 This is for git exercise.
-This is my second change
+This is my second change.
+
+3rd addition.
